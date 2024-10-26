@@ -1,0 +1,22 @@
+body{
+    background-image: url(assets/Gedung_IT_PLN.original.jpg);
+    
+header{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    margin: 5px;
+    color: white;
+}
+footer{
+    color: white;
+}
